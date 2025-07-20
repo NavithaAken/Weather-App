@@ -1,1 +1,1 @@
-Clone the repository and enjoy !
+Clone the repository and enjoy.
